@@ -45,7 +45,7 @@ const index = ({ data }) => {
           })
         }
       </div>
-      <div class={styles.textCenter}>
+      <div className={styles.textCenter}>
           <button className={styles.btn}>Load More</button>
       </div>
     </>

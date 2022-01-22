@@ -32,7 +32,7 @@ const users = () => {
                                         <h6>Email : {user.email}</h6>
                                         <h6>Phone : {user.phone}</h6>
                                         {/* <h6>Address : {user.address.city}</h6> */}
-                                        <button type="button" class="btn btn-info">View Detail</button>
+                                        <button type="button" className="btn btn-info">View Detail</button>
                                     </div>
                             </div>
                         </div>
