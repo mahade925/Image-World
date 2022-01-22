@@ -21,7 +21,7 @@ const index = ({ data }) => {
   return (
     <>
       <Head>
-        <title>Image World</title>
+        <title>Image Zone</title>
         <link rel="shortcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJqQKZY-TvCsSOSrBpXpm6vZU9J8_vqY4HA&usqp=CAU" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
