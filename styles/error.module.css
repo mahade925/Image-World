@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+
+.btn {
+    width: 150px;
+    height: 45px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: #1A1A40;
+    color: white;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.errorTitle {
+    font-size: 70px;
+    font-family: 'Dongle', sans-serif;
+}
